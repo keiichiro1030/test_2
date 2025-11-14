@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "室内反射率の正規化レポート",
+    "section": "",
+    "text": "はじめに\nこのページでは、測定スペクトルを正規化する方法について説明します。\n\n\n正規化の定義\n正規化スペクトル ( S_{}() ) は、次式で定義します。\n\\[\nS_{\\text{norm}}(\\lambda)\n  = \\frac{S_{\\text{meas}}(\\lambda) - S_{0}(\\lambda)}\n         {S_{100}(\\lambda) - S_{0}(\\lambda)}\n\\]\nここでは、\n\n(S_{}())：測定したスペクトル\n(S_{0}())：0%基準のスペクトル\n(S_{100}())：100%基準のスペクトル"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
